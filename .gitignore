@@ -1,0 +1,15 @@
+kernels/build
+kernels/dist
+kernels/sihwa_extension.egg-info
+kernels/src/wmma/*.backup
+script/*.backup
+.*.swp
+.*.swo
+kernels/.*.swp
+kernels/src/.*.swp
+kernels/src/wmma/.*.swp
+kernels/src/wmma/common/.*.swp
+kernels/src/fusedops/.*.swp
+kernels/.*.swo
+script/.*.swp
+script/.*.swo
