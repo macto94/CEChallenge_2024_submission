@@ -5,8 +5,6 @@
 docker pull macto94/ce_challenge_2024:latest
 
 ```
- - Replace `"your-image-name"` with the desired name for your Docker image.
-
 ---
 
 ## 2. Run the Docker Container and Prepare Model Checkpoint
